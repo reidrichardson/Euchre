@@ -1,0 +1,40 @@
+nav
+{
+	color: #0000ff;
+	text-align: left;
+	width: auto;
+	display: table-cell;
+	padding: 30px;
+}
+
+#wrapper
+{
+	margin: auto;
+	max-width: 900px;
+	min-width: 750px;
+	width:80%;
+}
+
+#mmenu
+{
+	display: table;
+	margin: 0 auto; 
+}
+
+body
+{
+	background-color: #42dff4;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+main
+{
+	
+}
+
+img
+{
+	float:right;
+	max-width: 100%;
+	width: auto;
+}
